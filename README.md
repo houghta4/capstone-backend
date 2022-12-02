@@ -2,6 +2,7 @@
 backend of capstone 595 group 5
 
 1. Download MySQL Installer https://dev.mysql.com/downloads/installer/
+  - Select developer default
 3. Replace your MySql username and password in application.properties. 
   - Mine is username: root password: root, so if you don't want to change anything you can copy that
   - ALTER USER 'root'@'localhost' IDENTIFIED BY 'root';
