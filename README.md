@@ -1,6 +1,7 @@
 # capstone-backend
-backend of capstone 595 group 5
+Headless backend of capstone 595 group 5 done using Spring Boot
 
+<!---
 1. Download MySQL Installer https://dev.mysql.com/downloads/installer/
   - On the site click on the download link for your operating system 
   - Click "No thanks, just start my download." at the bottom 
@@ -25,3 +26,4 @@ backend of capstone 595 group 5
 6. In Your Java IDE in src/main/java/com/capstone595/capstone/CapstoneApplication.java, Press the play button to the right of line 7 and click run 
 
 7. Your database should be up and running, Try creating an account and loging in. It sould save your User
+-->
